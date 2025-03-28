@@ -33,7 +33,11 @@ Secure Coding Practices – SQL
 
 Parameterization & Prepared Statements
 
-###⚡ Contribute
+>⚡ Contribute
 Got more amazing SQLi resources? Feel free to submit a pull request!
 
 ## ⭐ Star this repo if you find it useful!
+
+# BASIC SQL - Itroduction
+
+### First week learn basics of SQL: what is SQL, application, database, tables, data types, create, update, delete, filter, operators and sort values.
