@@ -33,7 +33,8 @@ Secure Coding Practices – SQL
 
 Parameterization & Prepared Statements
 
->⚡ Contribute
+> [!NOTE]
+> ⚡ Contribute
 Got more amazing SQLi resources? Feel free to submit a pull request!
 
 ## ⭐ Star this repo if you find it useful!
