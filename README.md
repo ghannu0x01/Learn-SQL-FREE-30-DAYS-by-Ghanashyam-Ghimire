@@ -1,2 +1,39 @@
-# Learn-SQL-FREE-30-DAYS-by-Ghanashyam-Ghimire
-FREE SQL Roadmap 30 Days Challange
+# 🔥 SQL Injection – Free Resources to Learn & Grow
+Welcome to the SQL Injection Learning Hub! This repository contains free resources, tools, and tutorials to understand, exploit, and prevent SQL Injection vulnerabilities. Whether you're a security researcher, ethical hacker, or developer, these resources will help you master SQLi techniques.
+
+### 📌 What is SQL Injection?
+SQL Injection (SQLi) is a web security vulnerability that allows attackers to interfere with an application's database queries. It can be used to bypass authentication, extract sensitive data, and even take control of a database.
+
+### 📚 Free Learning Resources
+🔹 Beginner-Friendly Guides
+OWASP SQL Injection Guide – Fundamentals of SQLi
+
+PortSwigger SQL Injection Academy – Interactive labs & tutorials
+
+Exploit DB – SQL Injection – Public exploits database
+
+### 🛠 Practical Hands-On Labs
+DVWA (Damn Vulnerable Web App) – Test SQLi on a purposely vulnerable web app
+
+bWAPP – Another intentionally vulnerable web application
+
+Hack The Box – Real-world security challenges
+
+### 🚀 Advanced SQL Injection Techniques
+Pentest Monkey SQL Cheat Sheet – Useful payloads for MySQL
+
+SQLMap – Automated SQL Injection tool
+
+HackerOne Reports on SQLi – Real-world bug bounty reports
+
+### 🛡 SQL Injection Prevention
+OWASP SQL Injection Prevention Cheat Sheet
+
+Secure Coding Practices – SQL
+
+Parameterization & Prepared Statements
+
+###⚡ Contribute
+Got more amazing SQLi resources? Feel free to submit a pull request!
+
+## ⭐ Star this repo if you find it useful!
