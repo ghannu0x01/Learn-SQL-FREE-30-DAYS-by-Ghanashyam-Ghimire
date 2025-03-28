@@ -42,3 +42,13 @@ Got more amazing SQLi resources? Feel free to submit a pull request!
 # BASIC SQL - Itroduction
 
 ### First week learn basics of SQL: what is SQL, application, database, tables, data types, create, update, delete, filter, operators and sort values.
+
+# SQL Topics:
+* Introduction to SQL
+  > https://www.codecademy.com/learn/learn-sql
+* Data Types, Primary-Foreign Keys & Constrains
+* Install SQL: Postgre SQL and Pgadmin 4
+* CREATE Database & Create Table
+* INSERT UPDATE, DELETE & ALTER TABLE
+* SELECT Statement & WHERE Clause + Operators + Order BY + Limit
+* W3school website to Learn SQL
