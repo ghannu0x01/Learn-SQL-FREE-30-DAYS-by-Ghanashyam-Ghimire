@@ -47,6 +47,7 @@ Got more amazing SQLi resources? Feel free to submit a pull request!
 * Introduction to SQL
   > https://www.codecademy.com/learn/learn-sql
 * Data Types, Primary-Foreign Keys & Constrains
+  > https://www.geeksforgeeks.org/types-of-keys-in-relational-model-candidate-super-primary-alternate-and-foreign/
 * Install SQL: Postgre SQL and Pgadmin 4
 * CREATE Database & Create Table
 * INSERT UPDATE, DELETE & ALTER TABLE
